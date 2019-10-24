@@ -18,3 +18,10 @@ C:\Programs\Steam\steamapps\common\TreeOfSavior\release\languageData
 
 
  ![20191024153806_1](https://user-images.githubusercontent.com/25759298/67520364-b1bc6b00-f676-11e9-961c-defc1c6df027.jpg)
+ 
+ 
+ ![20191024153843_1](https://user-images.githubusercontent.com/25759298/67520623-31e2d080-f677-11e9-8f1a-b315efeb8a39.jpg)
+ 
+ 
+ ![20191024153850_1](https://user-images.githubusercontent.com/25759298/67520628-327b6700-f677-11e9-82cc-8b2cd0d437bd.jpg)
+
