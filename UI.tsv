@@ -950,261 +950,261 @@ UI_20150317_000949	{@st59}Cerrar{/}	{@st59}숙소 설정을 닫습니다{/}
 UI_20150317_000950	{@St42_b}{s18}{#f5c384}Nombre del Grupo{/}	{@st42_b}{s18}{#f5c384}팀 이름{/}				
 UI_20150317_000951	{@st59}Ingrese el nombre del Grupo {/}	{@st59}원하는 팀 이름을 입력하세요{/}				
 UI_20150317_000952	{@st59}Guardar Nombre del Equipo{/}	{@st59}팀 이름을 저장합니다{/}				
-UI_20150317_000953	Provisional Delete	systemmenu_vertical 잠정삭제				
-UI_20150317_000954	{@St59}Close{/}	{@st59}배럭 꾸미기를 닫습니다{/}				
-UI_20150317_000955	{@St43}Lodge Decorating{/}	{@st43}배럭 꾸미기{/}				
-UI_20150317_000956	{@St41b}Theme{/}	{@st41b}   테마   {/}				
-UI_20150317_000957	{@St41b}Item Arrangement{/}	{@st41b}   물품배치   {/}				
-UI_20150317_000958	{@St41b}Name	{@st41b}이름				
-UI_20150317_000959	{@St41b}Price	{@st41b}가격				
-UI_20150317_000960	{@St41b}State	{@st41b}상태				
-UI_20150317_000961	{@St44}New Character{/}	{@st44}새 캐릭터{/}				
-UI_20150317_000962	{@St41b}{s22}Select Character Class{/}	{@st41b}{s22}생성을 원하는 클래스를 선택하세요{/}				
-UI_20150317_000963	{@St41b}Return{/}	{@st41b}생성 취소{/}				
-UI_20150317_000964	{@St59}Go back to your Lodge without creating a character	{@st59}캐릭터 생성을 취소합니다{/}				
-UI_20150317_000965	Change Character	캐릭터선택				
-UI_20150317_000966	{@St41}Character{/}	{@st41}캐릭터{/}				
-UI_20150317_000967	{@St59}Rotate clockwise{/}	{@st59}오른쪽으로 회전{/}				
-UI_20150317_000968	{@St59}Rotate counterclockwise{/}	{@st59}왼쪽으로 회전{/}				
-UI_20150317_000969	{@St43b}Character Rotation{/}	{@st43b}캐릭터 회전{/}				
-UI_20150317_000970	{@st43}Character Name{/}	{@st43}캐릭터 이름{/}				
-UI_20150317_000971	Enter a name{@st59} {/}	{@st59}이름을 입력합니다{/}				
-UI_20150317_000972	{@St43b}Choose Gender{/}	{@st43b}성별 선택{/}				
-UI_20150317_000973	{@St59}Female{/}	{@st59}여성{/}				
-UI_20150317_000974	{@St59}Male{/}	{@st59}남성{/}				
-UI_20150317_000975	{@st43b}Choose Hairstyle{/}	{@st43b}헤어 선택{/}				
-UI_20150317_000976	{@st59}Hairstyle 1{/}	{@st59}헤어1{/}				
-UI_20150317_000977	{@st59}Hairstyle 2{/}	{@st59}헤어2{/}				
-UI_20150317_000978	{@St59}Hairstyle 3{/}	{@st59}헤어3{/}				
-UI_20150317_000979	{@st59}Hairstyle 4{/}	{@st59}헤어4{/}				
-UI_20150317_000980	{@st59}Hairstyle 5{/}	{@st59}헤어5{/}				
-UI_20150317_000981	{@st59}Hairstyle 6{/}	{@st59}헤어6{/}				
-UI_20150317_000982	{@st59}Hairstyle 7{/}	{@st59}헤어7{/}				
-UI_20150317_000983	{@st59}Hairstyle 8{/}	{@st59}헤어8{/}				
-UI_20150317_000984	{@st59}Hairstyle 9{/}	{@st59}헤어9{/}				
-UI_20150317_000985	{@st59}Hairstyle 10{/}	{@st59}헤어10{/}				
-UI_20150317_000986	{@St43b}Select Class{/}	{@st43b}클래스 선택{/}				
-UI_20150317_000987	{@st59}Swordsman{/}	{@st59}소드맨{/}				
-UI_20150317_000988	{@st59}Wizard{/}	{@st59}위저드{/}				
-UI_20150317_000989	{@st59}Archer{/}	{@st59}아처{/}				
+UI_20150317_000953	Eliminacion Provisional	systemmenu_vertical 잠정삭제				
+UI_20150317_000954	{@St59}Cerrar{/}	{@st59}배럭 꾸미기를 닫습니다{/}				
+UI_20150317_000955	{@St43}Decoracion del Lodge{/}	{@st43}배럭 꾸미기{/}				
+UI_20150317_000956	{@St41b}Tema{/}	{@st41b}   테마   {/}				
+UI_20150317_000957	{@St41b}Arreglo del Articulo{/}	{@st41b}   물품배치   {/}				
+UI_20150317_000958	{@St41b}Nombre	{@st41b}이름				
+UI_20150317_000959	{@St41b}Precio	{@st41b}가격				
+UI_20150317_000960	{@St41b}Estado	{@st41b}상태				
+UI_20150317_000961	{@St44}Nuevo Personaje{/}	{@st44}새 캐릭터{/}				
+UI_20150317_000962	{@St41b}{s22}Seleccionar Clase de Personaje{/}	{@st41b}{s22}생성을 원하는 클래스를 선택하세요{/}				
+UI_20150317_000963	{@St41b}Regresar{/}	{@st41b}생성 취소{/}				
+UI_20150317_000964	{@St59}Regresa a tu lodge sin crear un personaje.	{@st59}캐릭터 생성을 취소합니다{/}				
+UI_20150317_000965	Change Personaje	캐릭터선택				
+UI_20150317_000966	{@St41}Personaje{/}	{@st41}캐릭터{/}				
+UI_20150317_000967	{@St59}Rotar las agujas del reloj{/}	{@st59}오른쪽으로 회전{/}				
+UI_20150317_000968	{@St59}Girar en sentido antihorario{/}	{@st59}왼쪽으로 회전{/}				
+UI_20150317_000969	{@St43b}Rotación de Personajes{/}	{@st43b}캐릭터 회전{/}				
+UI_20150317_000970	{@st43}Nombre del Personaje{/}	{@st43}캐릭터 이름{/}				
+UI_20150317_000971	Ingresa un Nombre{@st59} {/}	{@st59}이름을 입력합니다{/}				
+UI_20150317_000972	{@St43b}Elige Genero{/}	{@st43b}성별 선택{/}				
+UI_20150317_000973	{@St59}Hembra{/}	{@st59}여성{/}				
+UI_20150317_000974	{@St59}Macho{/}	{@st59}남성{/}				
+UI_20150317_000975	{@st43b}Elige Peinado{/}	{@st43b}헤어 선택{/}				
+UI_20150317_000976	{@st59}Peinado 1{/}	{@st59}헤어1{/}				
+UI_20150317_000977	{@st59}Peinado 2{/}	{@st59}헤어2{/}				
+UI_20150317_000978	{@St59}Peinado 3{/}	{@st59}헤어3{/}				
+UI_20150317_000979	{@st59}Peinado 4{/}	{@st59}헤어4{/}				
+UI_20150317_000980	{@st59}Peinado 5{/}	{@st59}헤어5{/}				
+UI_20150317_000981	{@st59}Peinado 6{/}	{@st59}헤어6{/}				
+UI_20150317_000982	{@st59}Peinado 7{/}	{@st59}헤어7{/}				
+UI_20150317_000983	{@st59}Peinado 8{/}	{@st59}헤어8{/}				
+UI_20150317_000984	{@st59}Peinado 9{/}	{@st59}헤어9{/}				
+UI_20150317_000985	{@st59}Peinado 10{/}	{@st59}헤어10{/}				
+UI_20150317_000986	{@St43b}Seleccione Clase{/}	{@st43b}클래스 선택{/}				
+UI_20150317_000987	{@st59}Espadachin{/}	{@st59}소드맨{/}				
+UI_20150317_000988	{@st59}Mago{/}	{@st59}위저드{/}				
+UI_20150317_000989	{@st59}Arquero{/}	{@st59}아처{/}				
 UI_20150317_000990	{@st59}Cleric{/}	{@st59}클레릭{/}				
-UI_20150317_000991	{@St41b}Visit Barrack {/}	{@st41b}배럭방문{/}				
-UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}	{@st59}다른 사람의 배럭을 방문합니다.{/}				
-UI_20150317_000993	{@St41b}Logout{/}	{@st41b}로그아웃{/}				
-UI_20150317_000994	{@St59}Move to the login screen{/}	{@st59}로그인 화면으로 이동합니다{/}				
-UI_20150317_000995	{@St41b}Exit Game{/}	{@st41b}게임종료{/}				
-UI_20150317_000996	{@St59}Exit Tree of Savior{/}	{@st59}게임을 종료합니다{/}				
-UI_20150317_000997	{@st41b}Select Channel{/}	{@st41b}게임을 시작할 채널을 선택하세요{/}				
-UI_20150317_000998	{@st43}Enter{/}	{@st43}게임 시작{/}				
-UI_20150317_000999	{@St59}Start the game with the selected character{/}	{@st59}선택한 캐릭터로 게임을 시작합니다{/}				
-UI_20150317_001000	{@St43}{s26}Team Name{/}	{@st43}{s26}팀 이름{/}				
-UI_20150317_001001	{@st59}Team Name{/}	{@st59}팀 이름{/}				
-UI_20150317_001002	{@st41b}Change Team Name{/}	{@st41b}팀 이름 변경{/}				
-UI_20150317_001003	{@st59}Change Team Name{/}	{@st59} 팀 이름을 변경합니다{/}				
-UI_20150317_001004	{@St41}Companion{/}	{@st41}컴패니언{/}				
-UI_20150317_001005	Chat Drag	채팅 드래그				
-UI_20150317_001006	{@St44}New Dialog Name{/}	{@st44}새로운 대화창 이름{/}				
-UI_20150317_001007	{@St42}Change{/}	{@st42}변경{/}				
-UI_20150317_001008	{@St44}New Window Name{/}	{@st44}새로운 창 이름{/}				
-UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}	{@st43}{s40}{gr gradation4}캐릭터 생성{/}				
-UI_20150317_001010	{@St59}Create a character{/}	{@st59}캐릭터를 생성합니다{/}				
-UI_20150317_001011	{@St59}Cancel character creation{/}	{@st59}생성을 취소합니다{/}				
-UI_20150317_001012	{@St59}Close{/}	{@st59}팀 이름 입력을 닫습니다{/}				
-UI_20150317_001013	{@St59}Create a team with the entered name{/}	{@st59}입력한 이름으로 팀을 생성합니다{/}				
-UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
-UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
-UI_20150317_001016	Loading background	로딩 배경				
-UI_20150317_001017	Tip	팁				
-UI_20150317_001018	Game Tips	게임팁				
-UI_20150317_001019	Login	로그인				
-UI_20150317_001020	Account ID	계정				
-UI_20150317_001021	{@st59}Enter your Account ID{/}	{@st59}계정을 입력 하십시오{/}				
-UI_20150317_001022	Password	비밀번호				
-UI_20150317_001023	{@St59}Enter your password{/}	{@st59}비밀 번호를 입력하십시오{/}				
-UI_20150317_001024	{@St43}Enter{/}	{@st43}게임 접속{/}				
-UI_20150317_001025	{@St59}Connect to the selected server{/}	{@st59}선택한 서버에 접속합니다{/}				
+UI_20150317_000991	{@St41b}Visita el Barraca{/}	{@st41b}배럭방문{/}				
+UI_20150317_000992	{@St59}Visita el barraca de otro jugador.{/}	{@st59}다른 사람의 배럭을 방문합니다.{/}				
+UI_20150317_000993	{@St41b}Cerrar sesión{/}	{@st41b}로그아웃{/}				
+UI_20150317_000994	{@St59}Ir a la pantalla de inicio de sesion{/}	{@st59}로그인 화면으로 이동합니다{/}				
+UI_20150317_000995	{@St41b}Salir del juego{/}	{@st41b}게임종료{/}				
+UI_20150317_000996	{@St59}Salir de Tree of Savior{/}	{@st59}게임을 종료합니다{/}				
+UI_20150317_000997	{@st41b}Seleccionar Canal{/}	{@st41b}게임을 시작할 채널을 선택하세요{/}				
+UI_20150317_000998	{@st43}Entrar{/}	{@st43}게임 시작{/}				
+UI_20150317_000999	{@St59}Comienza el juego con el personaje seleccionado.{/}	{@st59}선택한 캐릭터로 게임을 시작합니다{/}				
+UI_20150317_001000	{@St43}{s26}Nombre del Grupo{/}	{@st43}{s26}팀 이름{/}				
+UI_20150317_001001	{@st59}Nombre del equipo{/}	{@st59}팀 이름{/}				
+UI_20150317_001002	{@st41b}Cambiar Nombre del Grupo{/}	{@st41b}팀 이름 변경{/}				
+UI_20150317_001003	{@st59}Cambiar Nombre del Grupo{/}	{@st59} 팀 이름을 변경합니다{/}				
+UI_20150317_001004	{@St41}Mascota{/}	{@st41}컴패니언{/}				
+UI_20150317_001005	Arrastrar Chat	채팅 드래그				
+UI_20150317_001006	{@St44}Nuevo Nombre de Dialogo{/}	{@st44}새로운 대화창 이름{/}				
+UI_20150317_001007	{@St42}Cambiar{/}	{@st42}변경{/}				
+UI_20150317_001008	{@St44}Nuevo Nombre de Ventana{/}	{@st44}새로운 창 이름{/}				
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Creacion de Personaje{/}	{@st43}{s40}{gr gradation4}캐릭터 생성{/}				
+UI_20150317_001010	{@St59}Crea un Personaje{/}	{@st59}캐릭터를 생성합니다{/}				
+UI_20150317_001011	{@St59}Cancelar la creacion de personajes{/}	{@st59}생성을 취소합니다{/}				
+UI_20150317_001012	{@St59}Cerrar{/}	{@st59}팀 이름 입력을 닫습니다{/}				
+UI_20150317_001013	{@St59}Crear un grypo con el nombre ingresado{/}	{@st59}입력한 이름으로 팀을 생성합니다{/}				
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Ingrese el nombre de su grupo!	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
+UI_20150317_001015	{@St41b}El nombre de tu grupo es un nombre que representa a todos tus personajes.{nl}Este nombre se usara universalmente durante el intercambio, la unión de gremios, la conversación y más.{nl}         El nombre del equipo se puede cambiar en cualquier momento con 150 TP.{/}	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
+UI_20150317_001016	Cargando fondo	로딩 배경				
+UI_20150317_001017	Consejo	팁				
+UI_20150317_001018	Consejos de Juego	게임팁				
+UI_20150317_001019	Iniciar sesion	로그인				
+UI_20150317_001020	ID de la Cuenta	계정				
+UI_20150317_001021	{@st59}Ingrese su ID de cuenta{/}	{@st59}계정을 입력 하십시오{/}				
+UI_20150317_001022	Contraseña	비밀번호				
+UI_20150317_001023	{@St59}Ingresa tu contraseña{/}	{@st59}비밀 번호를 입력하십시오{/}				
+UI_20150317_001024	{@St43}Entrar{/}	{@st43}게임 접속{/}				
+UI_20150317_001025	{@St59}Conectarse al servidor seleccionado{/}	{@st59}선택한 서버에 접속합니다{/}				
 UI_20150317_001026	{@st41b}Replay{/}	{@st41b}리플레이{/}				
-UI_20150317_001027	{@st41b}Single Mode{/}	{@st41b}싱글 모드{/}				
-UI_20150317_001028	{@St41b}Exit Game{/}	{@st41b}게임 종료{/}				
-UI_20150317_001029	Save	저장				
-UI_20150317_001030	{@St59}If checked, your account will be saved{/}	{@st59}체크하면 계정을 저장합니다{/}				
-UI_20150317_001031	Server List	서버 목록				
-UI_20150317_001032	{@St59}Select Server{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}				
-UI_20150317_001033	Login Title	로그인타이틀				
-UI_20150317_001034	[Closed Beta version]	[클로즈 베타 테스트 버전]				
-UI_20150317_001035	Options	옵션				
-UI_20150317_001036	Visibility Range	시야거리				
-UI_20150317_001037	{S20}{#BBBBBB}Visibility Range	{s20}{#BBBBBB}시야 거리				
-UI_20150317_001038	Visibility Range :	시야 거리 :				
-UI_20150317_001039	Character :	캐릭터 :				
-UI_20150317_001040	Background Objects :	배경 오브젝트 :				
-UI_20150317_001041	Topography - Grass (%) :	지형-풀(%) :				
-UI_20150317_001042	Topography-Tree (%) :	지형-트리 (%) :				
-UI_20150317_001043	Topography-objects(%) :	지형-오브젝트(%) :				
-UI_20150317_001044	Shadow	섀도우				
-UI_20150317_001045	{S20}{#BBBBBB}Shadow Mapping	{s20}{#BBBBBB}섀도우맵				
-UI_20150317_001046	Enable Shadow Mapping	섀도우맵 사용				
-UI_20150317_001047	Shadow Quality :	섀도우 품질 :				
-UI_20150317_001048	SSAO Use	SSAO 사용				
-UI_20150317_001049	SSAO Method :	SSAO 방식 :				
-UI_20150317_001050	SSAO Resolution :	SSAO 해상도 :				
-UI_20150317_001051	Water Reflection	물반사				
-UI_20150317_001052	{s20}{#BBBBBB}Water Reflection	{s20}{#BBBBBB}물 반사				
-UI_20150317_001053	Characters Water Reflection	캐릭터 물반사				
-UI_20150317_001054	Background Water Reflection	배경 물반사				
-UI_20150317_001055	{s20}{#BBBBBB}Glow Setup	{s20}{#BBBBBB}Glow 설정				
-UI_20150317_001056	Enable Glow	Glow 사용				
-UI_20150317_001057	{@st41}Attack{/}	{@st41}공격력{/}				
-UI_20150317_001058	{@St41}Defense{/}	{@st41}방어력{/}				
-UI_20150317_001059	{@st41}Support{/}	{@st41}보조{/}				
-UI_20150317_001060	{@st41}Difficulty{/}	{@st41}난이도{/}				
-UI_20150317_001061	{@st41}Hairstyle	{@st41}헤 어				
+UI_20150317_001027	{@st41b}Modo Individual{/}	{@st41b}싱글 모드{/}				
+UI_20150317_001028	{@St41b}Salir del Juego{/}	{@st41b}게임 종료{/}				
+UI_20150317_001029	Guardar	저장				
+UI_20150317_001030	{@St59}Si esta marcado, su cuenta se guardara{/}	{@st59}체크하면 계정을 저장합니다{/}				
+UI_20150317_001031	Lista de Servidores	서버 목록				
+UI_20150317_001032	{@St59}Seleccionar Servidor{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}				
+UI_20150317_001033	Título de Inicio de Sesion	로그인타이틀				
+UI_20150317_001034	[Versión beta cerrada]	[클로즈 베타 테스트 버전]				
+UI_20150317_001035	Opciones	옵션				
+UI_20150317_001036	Rango de Visibilidad	시야거리				
+UI_20150317_001037	{S20}{#BBBBBB}Rango de Visibilidad	{s20}{#BBBBBB}시야 거리				
+UI_20150317_001038	Rango de Visibilidad :	시야 거리 :				
+UI_20150317_001039	Personaje :	캐릭터 :				
+UI_20150317_001040	Objetos de Fondo :	배경 오브젝트 :				
+UI_20150317_001041	Topografia - Hierba (%) :	지형-풀(%) :				
+UI_20150317_001042	Topografia-Arbol (%) :	지형-트리 (%) :				
+UI_20150317_001043	Topografia-Objetos(%) :	지형-오브젝트(%) :				
+UI_20150317_001044	Sombra	섀도우				
+UI_20150317_001045	{S20}{#BBBBBB}Mapeo de Sombras	{s20}{#BBBBBB}섀도우맵				
+UI_20150317_001046	Habilitar Mapeo de Sombras	섀도우맵 사용				
+UI_20150317_001047	Calidad Sombra :	섀도우 품질 :				
+UI_20150317_001048	Uso de SSAO	SSAO 사용				
+UI_20150317_001049	Metodo SSAO:	SSAO 방식 :				
+UI_20150317_001050	Resolucion SSAO :	SSAO 해상도 :				
+UI_20150317_001051	Reflejo de Agua	물반사				
+UI_20150317_001052	{s20}{#BBBBBB}Reflejo de Agua	{s20}{#BBBBBB}물 반사				
+UI_20150317_001053	Personajes Reflejo de Agua	캐릭터 물반사				
+UI_20150317_001054	Reflejo de Agua de Fondo	배경 물반사				
+UI_20150317_001055	{s20}{#BBBBBB}Ajustes de resplandor	{s20}{#BBBBBB}Glow 설정				
+UI_20150317_001056	Habilitar Resplandor Resplandor 사용				
+UI_20150317_001057	{@st41}Ataque{/}	{@st41}공격력{/}				
+UI_20150317_001058	{@St41}Defensa{/}	{@st41}방어력{/}				
+UI_20150317_001059	{@st41}Soporte{/}	{@st41}보조{/}				
+UI_20150317_001060	{@st41}Dificultad{/}	{@st41}난이도{/}				
+UI_20150317_001061	{@st41}Peinado	{@st41}헤 어				
 UI_20150317_001062	{@st41}Rotation	{@st41}회 전				
-UI_20150317_001063	{@st43}Create Character	{@st43}캐릭터 생성				
-UI_20150317_001064	{@st59}Create Current Character{/}	{@st59}설정대로 캐릭터를 생성합니다{/}				
-UI_20150317_001065	{@st41b}Cancel	{@st41b}선택 취소				
-UI_20150317_001066	{@st59}Cancel Character Selection{/}	{@st59}캐릭터 선택을 취소합니다{/}				
+UI_20150317_001063	{@st43}Crear Personaje	{@st43}캐릭터 생성				
+UI_20150317_001064	{@st59}Crear Personaje Actual{/}	{@st59}설정대로 캐릭터를 생성합니다{/}				
+UI_20150317_001065	{@st41b}Cancelar	{@st41b}선택 취소				
+UI_20150317_001066	{@st59}Cancelar Seleccion de Personaje{/}	{@st59}캐릭터 선택을 취소합니다{/}				
 UI_20150317_001067	Informacion de Personaje	캐릭터정보				
-UI_20150317_001068	{@st41}Bring Along	{@st41}함께하기				
-UI_20150317_001069	{@st59}After clicking this, select a character for the companion to follow you{/}	{@st59}클릭후 캐릭터를 선택하면 컴패니언이 따라다닙니다{/}				
-UI_20150317_001070	UI of Item Creation	아이템 생성 UI				
-UI_20150317_001071	{s24}Name :	{s24}이름 : 				
+UI_20150317_001068	{@st41}Llevar Contigo	{@st41}함께하기				
+UI_20150317_001069	{@st59}Después de hacer clic en este, seleccione un personaje para que la mascota lo siga{/}	{@st59}클릭후 캐릭터를 선택하면 컴패니언이 따라다닙니다{/}				
+UI_20150317_001070	IU de Creación de Artículos	아이템 생성 UI				
+UI_20150317_001071	{s24}Nombre :	{s24}이름 : 				
 UI_20150317_001072	{s16} STR :	{s16} 힘 : 				
 UI_20150317_001073	{s16} HP :	{s16} 체력 : 				
 UI_20150317_001074	{s16} AGI :	{s16} 민첩 : 				
 UI_20150317_001075	{s16} VIT :	{s16} 기력 : 				
-UI_20150317_001076	{s16} Force :	{s16} 도력 : 				
-UI_20150317_001077	{s18} Class Selection	{s18} 직업선택				
-UI_20150317_001078	{s18} Right Way Union	{s18} 정도연맹				
+UI_20150317_001076	{s16} Fuerza :	{s16} 도력 : 				
+UI_20150317_001077	{s18} Seleccion de Clase	{s18} 직업선택				
+UI_20150317_001078	{s18} Union de manera correcta	{s18} 정도연맹				
 UI_20150317_001079	{s18} Providence Evil Union	{s18} 천명마교				
 UI_20150317_001080	Hong Moo Moon	홍무문				
 UI_20150317_001081	Dae Do Cheon	대도천				
-UI_20150317_001082	Fire Swords	화선도				
+UI_20150317_001082	Espadas de Fuego	화선도				
 UI_20150317_001083	For adenomas hwageuk	용화극선종				
-UI_20150317_001084	Puncture sex	천자성				
+UI_20150317_001084	Sexo de Puncion	천자성				
 UI_20150317_001085	Yeonhwagyo	연화교				
-UI_20150317_001086	{S16}Gender and Appearance	{s16}성별 및 외모				
-UI_20150317_001087	Male	남				
-UI_20150317_001088	Female	여				
-UI_20150317_001089	Hair Adjustment	머리 조절				
-UI_20150317_001090	Key Adjustment	키 조절				
-UI_20150317_001091	Shoulder Width	어깨 넓이				
-UI_20150317_001092	Hand and Foot size	손, 발 크기				
-UI_20150317_001093	Chest Size	가슴 사이즈				
-UI_20150317_001094	Waist Size	허리 사이즈				
-UI_20150317_001095	Hip Size	골반 사이즈				
-UI_20150317_001096	{S18} Head Size	{s18} 머리크기				
-UI_20150317_001097	{S14} Height Adjustment	{s14} 키 조절				
-UI_20150317_001098	{S14} Shoulder Width	{s14} 어깨 넓이				
-UI_20150317_001099	{S14} Hand and Foot size	{s14} 손, 발 크기				
-UI_20150317_001100	{S14} Chest Size	{s14} 가슴 사이즈				
-UI_20150317_001101	{S14} Waist Size	{s14} 허리 사이즈				
-UI_20150317_001102	{S14} Pelvic Size	{s14} 골반 사이즈				
-UI_20150317_001103	Use Pre-set	미리설정값				
-UI_20150317_001104	Randomize	임의설정값				
-UI_20150317_001105	Create New Character	신규 인물 생성				
-UI_20150317_001106	Cancel Character Creation	인물 생성 취소				
-UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}	{@st43}{s40}{gr gradation4}게임 시작{/}				
-UI_20150317_001108	{@St43}{s40}{gr gradation4}End Preview{/}	{@st43}{s40}{gr gradation4}미리보기 종료{/}				
-UI_20150317_001109	{@St43}{s40}{gr gradation4}Return to the Zone{/}	{@st43}{s40}{gr gradation4}존으로돌아가기{/}				
-UI_20150317_001110	{@St59}Return to the Zone.{/}	{@st59}다시 존으로 들어갑니다.{/}				
-UI_20150317_001111	{@St41b}Return{/}	{@st41b}돌아가기{/}				
-UI_20150317_001112	{@St59}Return to My Lodge.{/}	{@st59}나의 배럭으로 돌아갑니다.{/}				
-UI_20150317_001113	{@St43}{s24}LodgeName{/}	{@st43}{s24}배럭 이름{/}				
-UI_20150317_001114	{@St59}Lodge Name{/}	{@st59}배럭 이름{/}				
-UI_20150317_001115	{@st41b}Decorate{/}	{@st41b}꾸미기{/}				
-UI_20150317_001116	{@St59}Decorate Lodge{/}	{@st59}배럭 꾸미기{/}				
+UI_20150317_001086	{S16}Genero y Apariencia	{s16}성별 및 외모				
+UI_20150317_001087	Macho	남				
+UI_20150317_001088	Hembra	여				
+UI_20150317_001089	Ajuste de Cabello	머리 조절				
+UI_20150317_001090	Ajuste Clave	키 조절				
+UI_20150317_001091	Ancho de Hombro	어깨 넓이				
+UI_20150317_001092	Tamaño de manos y pies	손, 발 크기				
+UI_20150317_001093	Tamaño del pecho	가슴 사이즈				
+UI_20150317_001094	Tamaño de la cintura	허리 사이즈				
+UI_20150317_001095	Tamaño de la cadera	골반 사이즈				
+UI_20150317_001096	{S18} Tamaño de la cabeza	{s18} 머리크기				
+UI_20150317_001097	{S14} Ajuste de Altura	{s14} 키 조절				
+UI_20150317_001098	{S14} Ancho de hombro	{s14} 어깨 넓이				
+UI_20150317_001099	{S14} Tamaño de manos y pies	{s14} 손, 발 크기				
+UI_20150317_001100	{S14} Tamaño del pecho	{s14} 가슴 사이즈				
+UI_20150317_001101	{S14} Tamaño de la cintura	{s14} 허리 사이즈				
+UI_20150317_001102	{S14} Tamaño pélvico	{s14} 골반 사이즈				
+UI_20150317_001103	Usar preestablecido	미리설정값				
+UI_20150317_001104	Aleatorizar	임의설정값				
+UI_20150317_001105	Crear Nuevo Personaje	신규 인물 생성				
+UI_20150317_001106	Cancelar Creacion de Personajes	인물 생성 취소				
+UI_20150317_001107	{@St43}{s40}{gr gradation4}Empezar Juego{/}	{@st43}{s40}{gr gradation4}게임 시작{/}				
+UI_20150317_001108	{@St43}{s40}{gr gradation4}Finalizar Vista Previa{/}	{@st43}{s40}{gr gradation4}미리보기 종료{/}				
+UI_20150317_001109	{@St43}{s40}{gr gradation4}Regresar a la zona.{/}	{@st43}{s40}{gr gradation4}존으로돌아가기{/}				
+UI_20150317_001110	{@St59}Regresar a la Zona.{/}	{@st59}다시 존으로 들어갑니다.{/}				
+UI_20150317_001111	{@St41b}Regresar{/}	{@st41b}돌아가기{/}				
+UI_20150317_001112	{@St59}Regresar a My Lodge.{/}	{@st59}나의 배럭으로 돌아갑니다.{/}				
+UI_20150317_001113	{@St43}{s24}NombreLodge{/}	{@st43}{s24}배럭 이름{/}				
+UI_20150317_001114	{@St59}Nombre del Lodge{/}	{@st59}배럭 이름{/}				
+UI_20150317_001115	{@st41b}Decorar{/}	{@st41b}꾸미기{/}				
+UI_20150317_001116	{@St59}Decorar Lodge{/}	{@st59}배럭 꾸미기{/}				
 UI_20150317_001117	{@St41b}Setup{/}	{@st41b}설  정{/}				
-UI_20150317_001118	{@St59}Barrack Settings{/}	{@st59}배럭 설정{/}				
-UI_20150317_001119	Customized Item frame	커스터마이즈 아이템 프레임				
-UI_20150317_001120	Green	녹색				
-UI_20150317_001121	Density	밀도				
+UI_20150317_001118	{@St59}Ajustes de Barracas{/}	{@st59}배럭 설정{/}				
+UI_20150317_001119	Marco de Artículo Personalizado	커스터마이즈 아이템 프레임				
+UI_20150317_001120	Verde	녹색				
+UI_20150317_001121	Densidad	밀도				
 UI_20150317_001122	Like HP	체력이라던가				
-UI_20150317_001123	{@st59}Hair Accessories{/}	{@st59}헤어악세서리{/}				
-UI_20150317_001124	{@st59}Subsidiary Accessories{/}	{@st59}보조악세서리{/}				
-UI_20150317_001125	{@St42}Text{/}	{@st42}텍스트{/}				
-UI_20150317_001126	Basic content name	기본 콘텐츠 이름				
-UI_20150317_001127	Basic group name	기본 그룹 이름				
-UI_20150317_001128	Basic item name	기본 아이템 이름				
+UI_20150317_001123	{@st59}Accesorios para el cabello{/}	{@st59}헤어악세서리{/}				
+UI_20150317_001124	{@st59}Accesorios Subsidiarios{/}	{@st59}보조악세서리{/}				
+UI_20150317_001125	{@St42}Texto{/}	{@st42}텍스트{/}				
+UI_20150317_001126	Nombre de Contenido Basico	기본 콘텐츠 이름				
+UI_20150317_001127	Nombre de Grupo Basico	기본 그룹 이름				
+UI_20150317_001128	Nombre Basico del Artículo	기본 아이템 이름				
 UI_20150317_001129	Mr Kim	김평직				
-UI_20150317_001130	Weight : %s	무게 : %s				
+UI_20150317_001130	Peso : %s	무게 : %s				
 UI_20150317_001131	N/A	별별벼려별				
 UI_20150317_001132	%s race	%s 종족				
 UI_20150317_001133	N/A	표례스텨(싱뮬형)				
-UI_20150317_001134	Untradable	거래 불가				
-UI_20150317_001135	Cannot enhance	강화 불가				
+UI_20150317_001134	Intransferible	거래 불가				
+UI_20150317_001135	No se Puede Mejorar	강화 불가				
 UI_20150317_001136	N/A	별별별별				
-UI_20150317_001137	Item Name	템이름				
+UI_20150317_001137	Nombre del Articulo	템이름				
 UI_20150317_001138	N/A	이 템을 착용하면 어쩌고 저쩌고				
-UI_20150317_001139	Lv and above	레벨 몇 이상				
-UI_20150317_001140	Everyone can equip	누구는 장착 가능				
-UI_20150317_001141	Maximum Sockets : ×%s	최대 소캣 %s개				
-UI_20150317_001142	Item Name	아이템 이륨				
-UI_20150317_001143	Sell Value : %s silver	상점 판매 가격 : %s 실버				
-UI_20150317_001144	How much	얼마				
-UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}	{@st42b}샤울레이 전체 탐사율{/}				
-UI_20150317_001146	{@St42b}West Forest Area Explored{/}	{@st42b}서쪽숲 탐사율{/}				
-UI_20150317_001147	{@St18}Item{/}	{@st18}아이템{/}				
+UI_20150317_001139	Lv y superior	레벨 몇 이상				
+UI_20150317_001140	Todos pueden equipar	누구는 장착 가능				
+UI_20150317_001141	Ranuras Maximas: ×%s	최대 소캣 %s개				
+UI_20150317_001142	Nombre del Articulo	아이템 이륨				
+UI_20150317_001143	Valor de Venta : %s Plata	상점 판매 가격 : %s 실버				
+UI_20150317_001144	Cuanto cuesta	얼마				
+UI_20150317_001145	{@St42b}Tasa de exploracion completa de Siauliai{/}	{@st42b}샤울레이 전체 탐사율{/}				
+UI_20150317_001146	{@St42b}Area del Bosque del Oeste explorada{/}	{@st42b}서쪽숲 탐사율{/}				
+UI_20150317_001147	{@St18}Articulo{/}	{@st18}아이템{/}				
 UI_20150317_001148	{@St18}My Ranking{/}	{@st18}내 순위{/}				
-UI_20150317_001149	Diamond	다이야				
+UI_20150317_001149	Diamante	다이야				
 UI_20150317_001150	Stamina +9.000	체력 플러스 구천				
-UI_20150317_001151	{@St18}Average{/}	{@st18}평균{/}				
+UI_20150317_001151	{@St18}Promedio{/}	{@st18}평균{/}				
 UI_20150317_001152	{@St42b}{s18}Workmanship{/}	{@st42b}{s18}숙련도{/}				
-UI_20150317_001153	{@St55_c}Item Name	{@st55_c}아이템 이름				
+UI_20150317_001153	{@St55_c}Nombre del Articulo	{@st55_c}아이템 이름				
 UI_20150317_001154	{@St55_c}Memo Records	{@st55_c}메모 기록				
-UI_20150317_001155	{@St59}Enter a name. If you do not enter a name, the default name will be used.{/}	{@st59}이름을 입력합니다. 입력하지 않을경우 기본이름으로 제작됩니다.{/}				
-UI_20150317_001156	{@St59}Enter a memo{/}	{@st59}메모를 입력합니다{/}				
-UI_20150317_001157	{@St43}Produce items	{@st43}아이템 제작				
-UI_20150317_001158	{@st42b}%s Points {/}	{@st42b}%s 점{/}				
+UI_20150317_001155	{@St59}Ingresa un nombre. Si no ingresa un nombre, se utilizará el nombre predeterminado.{/}	{@st59}이름을 입력합니다. 입력하지 않을경우 기본이름으로 제작됩니다.{/}				
+UI_20150317_001156	{@St59}Ingrese un Memo{/}	{@st59}메모를 입력합니다{/}				
+UI_20150317_001157	{@St43}Producir Articulos	{@st43}아이템 제작				
+UI_20150317_001158	{@st42b}%s Puntos {/}	{@st42b}%s 점{/}				
 UI_20150317_001159	{@st42b}%s{/}	{@st42b}%s 개{/}				
-UI_20150317_001160	{@st42b}%s Points {/}	{@st42b}%s점{/}				
+UI_20150317_001160	{@st42b}%s Puntos {/}	{@st42b}%s점{/}				
 UI_20150317_001161	{@st42b}%s{/}	{@st42b}%s개{/}				
-UI_20150317_001162	{S16}{ol}per price	{s16}{ol}개당 가격				
-UI_20150317_001163	Total Price : 1	총 가격 :   1				
-UI_20150317_001164	{@St41}Help	{@st41}도움말				
-UI_20150317_001165	{@St41}Photo Description	{@st41}사진에 대한 설명				
-UI_20150317_001166	{@St41}Registration	{@st41}등록				
-UI_20150317_001167	{@St41}Name	{@st41}이  름				
-UI_20150317_001168	{@St41}Message	{@st41}메세지				
-UI_20150317_001169	{@St43}Name{/}	{@st43}이  름{/}				
-UI_20150317_001170	{@St41b}Message{/}	{@st41b}메세지{/}				
-UI_20150317_001171	{@St42b}Login{/}	{@st42b}로그인{/}				
-UI_20150317_001172	{@St41}Create a new conversation	{@st41}새 대화 만들기				
-UI_20150317_001173	{@St41}Full Conversation	{@st41}전체 대화				
-UI_20150317_001174	Region Name	지역이름				
-UI_20150317_001175	{@St41}Skill Names	{@st41}스킬이름				
-UI_20150317_001176	{@St41}Attribute Points	{@st41}특성포인트				
-UI_20150317_001177	{@St41}Class Name	{@st41}클래스이름				
-UI_20150317_001178	Character Name	케릭터 이름				
-UI_20150317_001179	{@Sti7}Delete{/}	{@sti7}삭제{/}				
-UI_20150317_001180	Character Level	케릭터 레벨				
-UI_20150317_001181	{@St42}Quest Sharing{/}	{@st42}퀘스트공유{/}				
-UI_20150317_001182	{@St42}EXP Sharing{/}	{@st42}경험치공유{/}				
-UI_20150317_001183	Character Memo	케릭터 메모				
-UI_20150317_001184	Average Party Level : {#FFFF00}%s{/}	파티 평균레벨 : {#FFFF00}%s{/}				
-UI_20150317_001185	Searching For : {#FFFF00}%s{/}	찾는 파티원 : {#FFFF00}%s{/}				
+UI_20150317_001162	{S16}{ol}por precio	{s16}{ol}개당 가격				
+UI_20150317_001163	Precio Total : 1	총 가격 :   1				
+UI_20150317_001164	{@St41}Ayuda	{@st41}도움말				
+UI_20150317_001165	{@St41}Descripcion de la Foto	{@st41}사진에 대한 설명				
+UI_20150317_001166	{@St41}Registracion	{@st41}등록				
+UI_20150317_001167	{@St41}Nombre	{@st41}이  름				
+UI_20150317_001168	{@St41}Mensaje	{@st41}메세지				
+UI_20150317_001169	{@St43}Nombre{/}	{@st43}이  름{/}				
+UI_20150317_001170	{@St41b}Mensaje{/}	{@st41b}메세지{/}				
+UI_20150317_001171	{@St42b}Iniciar Sesion{/}	{@st42b}로그인{/}				
+UI_20150317_001172	{@St41}Crea una nueva conversacion	{@st41}새 대화 만들기				
+UI_20150317_001173	{@St41}Conversacion completa	{@st41}전체 대화				
+UI_20150317_001174	Nombre de Region지역이름				
+UI_20150317_001175	{@St41}Nombres de Habilidades	{@st41}스킬이름				
+UI_20150317_001176	{@St41}Puntos de Atributo	{@st41}특성포인트				
+UI_20150317_001177	{@St41}Nombre de la Clase	{@st41}클래스이름				
+UI_20150317_001178	Nombre del Personaje	케릭터 이름				
+UI_20150317_001179	{@Sti7}Eliminar{/}	{@sti7}삭제{/}				
+UI_20150317_001180	Level de personaje케릭터 레벨				
+UI_20150317_001181	{@St42Compartir Mision{/}	{@st42}퀘스트공유{/}				
+UI_20150317_001182	{@St42}Compartir EXP{/}	{@st42}경험치공유{/}				
+UI_20150317_001183	Memo de Personaje	케릭터 메모				
+UI_20150317_001184	Level promedio de fiesta: {#FFFF00}%s{/}	파티 평균레벨 : {#FFFF00}%s{/}				
+UI_20150317_001185	Buscando a : {#FFFF00}%s{/}	찾는 파티원 : {#FFFF00}%s{/}				
 UI_20150317_001186	Cleric / Archer	성직자 / 궁수				
-UI_20150317_001187	Quest Sharing : {#FFFF00}%s{/}	퀘스트 공유 : {#FFFF00}%s{/}				
+UI_20150317_001187	Compartir Mision : {#FFFF00}%s{/}	퀘스트 공유 : {#FFFF00}%s{/}				
 UI_20150317_001188	N/A	사아용				
-UI_20150317_001189	EXP Distribution : {#FFFF00}%s{/}	경험치 분배규칙 : {#FFFF00}%s{/}				
-UI_20150317_001190	Equally	규운등 분배				
-UI_20150317_001191	Item Distribution : {#FFFF00}%s{/}	아이템 분배규칙 : {#FFFF00}%s{/}				
-UI_20150317_001192	Randomly	래앤덤하게 분배				
-UI_20150317_001193	How do I	어떻게하면내가				
-UI_20150317_001194	You don't see who it is	누군지모를까				
+UI_20150317_001189	Distribucion EXP: {#FFFF00}%s{/}	경험치 분배규칙 : {#FFFF00}%s{/}				
+UI_20150317_001190	Igual	규운등 분배				
+UI_20150317_001191	Distribucion de Articulos : {#FFFF00}%s{/}	아이템 분배규칙 : {#FFFF00}%s{/}				
+UI_20150317_001192	Al azar	래앤덤하게 분배				
+UI_20150317_001193	Como puedo	어떻게하면내가				
+UI_20150317_001194	No ves quien es	누군지모를까				
 UI_20150317_001195	{@st41b}Diario de Aventura Actualizado	{@st41b}모험일지에 등록되었습니다.				
-UI_20150317_001196	Menu Objects for Quest	퀘스트용 메뉴오브젝트				
-UI_20150317_001197	Quest Categories	퀘스트의 카테고리				
-UI_20150317_001198	Quest Object List	퀘스트의 리스트 오브젝트				
+UI_20150317_001196	Objetos de Menu para Misiones	퀘스트용 메뉴오브젝트				
+UI_20150317_001197	Categorias de Misiones	퀘스트의 카테고리				
+UI_20150317_001198	Lista de Objetos de Misiones	퀘스트의 리스트 오브젝트				
 UI_20150317_001199	N/A	퀘스트의 리스트 오브젝트-여기까지는 옛날꺼임				
-UI_20150317_001200	Line used on the roadmap	로드맵에서 사용하는 라인				
-UI_20150317_001201	Slot Object_Standard	슬롯 오브젝트_일반용				
-UI_20150317_001202	Slot Object_Cash Slot	슬롯 오브젝트_캐시슬롯				
-UI_20150317_001203	Character Details Type 1	캐릭터 상세 정보 타입1				
-UI_20150317_001204	Character Details Type 2	캐릭터 상세 정보 타입2				
-UI_20150317Inventario List Type 1	인벤토리 리스트 타입1				
-UI_20150317Inventario List Type 2	인벤토리 리스트 타입2				
-UI_20150317Inventario Slot Type	인벤토리 슬롯 타입				
+UI_20150317_001200	Línea utilizada en la hoja de ruta	로드맵에서 사용하는 라인				
+UI_20150317_001201	Ranura Object_Standard	슬롯 오브젝트_일반용				
+UI_20150317_001202	Ranura Object_Cash Slot	슬롯 오브젝트_캐시슬롯				
+UI_20150317_001203	Tipo de Detalles del Personaje 1	캐릭터 상세 정보 타입1				
+UI_20150317_001204	Tipo de Detalles del Personaje 2	캐릭터 상세 정보 타입2				
+UI_20150317_001205	 Inventario List Type 1	인벤토리 리스트 타입1				
+UI_20150317_001206	 Inventario List Type 2	인벤토리 리스트 타입2				
+UI_20150317_001207	 Inventario Slot Type	인벤토리 슬롯 타입				
 UI_20150317_001208	View item details on the Market	마켓에서 아이템 보기_디테일				
 UI_20150317_001209	Output of Item Name	아이템 이름 출력				
 UI_20150317_001210	Output of the number of remaining	남아 있는 개수를 출력				
